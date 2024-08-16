@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita:ital,wght@0,400;0,700;0,800;0,900;1,400;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html body {
+    background-image: url(1.ak.jpg);
+    font-family: "Sansita", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.h1 {
+    color: white;
+}
+
+
+.button {
+    width: 50px;
+    padding: 20px;
+    margin: 0px 2px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.row {
+    margin: 3px 0px;
+    font-family: "Sansita", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.row input {
+    font-family: "Sansita", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    margin: 0;
+    padding: 13px 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.btn {
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 20px 102px;
+}
